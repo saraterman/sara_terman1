@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+   font-family: "Bebas Neue", sans-serif;
+   color: white;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: <weight>;
+   line-height: 25px;
+   width: 1500px;
+   background-color: #C9A9A6;
+   padding: 20px;
+   
+   
+}
+
+h1 {
+	font-family: "Arima", sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: <weight>;
+    
+}
+
+body{
+	background-color: #FFC0CB;
+}
+
+
+
+
